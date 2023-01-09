@@ -20,5 +20,5 @@ steps:
     location: 'West Europe'
     templateLocation: 'URL of the file'
     csmFileLink: 'https://raw.githubusercontent.com/felixnoga/azureRmPipeline/main/webapp/azuredeploy.json'
-    overrideParameters: '-projectName felixitoarm'
+    overrideParameters: '-projectName azurearm'
     deploymentMode: 'Incremental'
